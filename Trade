@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Primeiro commit do projeto de trade"
+git remote add origin https://github.com/vinicius864/Trade-estrategias-mercado.git
+git branch -M main
+git push -u origin main
